@@ -1,5 +1,9 @@
 # Telemetry Trailer Connector Logger
 
+## **NOTICE: REPOSITORIES INTEGRATED INTO SINGLE REPOSITORY**
+
+This repository along with other related repositories have been integrated into [**Vehicle Telemetry System**, a system for collecting and processing motor vehicle data using included sensor modules.](https://github.com/thatlarrypearson/vehicle-telemetry-system).
+
 Collect and log data from 7 and 4-way trailer connectors.
 
 On tow vehicles, 7-Way Trailer Connectors are used to determine brakes (on/off), brake controller output (brake pressure), lights (on/off) and reverse (engaged/not engaged).  The wiring and applications also support 4-Way Trailer Connectors.  The 4-Way Connectors can only provide taillights, right/left blinkers and brake light signals.
