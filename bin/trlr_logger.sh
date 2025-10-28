@@ -52,8 +52,6 @@ do
 	${APP_PYTHON} -m trlr_logger.trlr_logger \
         --log_file_directory "${APP_BASE_PATH}"
 
-        # --shared_dictionary_name "${SHARED_DICTIONARY_NAME}" \
-
 	export RtnVal="$?"
 	echo trlr_logger returns "${RtnVal}"
 
